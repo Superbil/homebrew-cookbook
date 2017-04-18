@@ -1,0 +1,9 @@
+* Homebrew Cookbook
+
+  Something miss from homebrew that I need.
+
+* Licence
+
+  And of course:
+
+  MIT: http://superbil.mit-license.org/
