@@ -16,7 +16,7 @@ class ClassDump < Formula
 
   bottle do
     cellar :any_skip_relocation
-    revision 2
+    rebuild 2
     sha256 "1122ce44de336a9d1973fb3f41c860504724711241681e88ab201baf0be8378b" => :mavericks
   end
 
